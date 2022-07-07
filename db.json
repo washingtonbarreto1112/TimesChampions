@@ -1,0 +1,53 @@
+{
+    "times":
+    [
+        {
+            "id": 1,
+            "name": "Real Madrid",
+            "country": "Espanha",
+            "foto":"https://upload.wikimedia.org/wikipedia/pt/thumb/0/0c/Liverpool_FC.svg/370px-Liverpool_FC.svg.png?20100902051529"
+        },
+        {
+            "id": 2,
+            "name": "Liverpool",
+            "country": "Inglaterra",
+            "foto":"../assets/liverpool.png"
+        },
+        {
+            "id": 3,
+            "name": "Man. City",
+            "country": "Inglaterra",
+            "foto":"../assets/mancity.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Paris Saint Germain",
+            "country": "França",
+            "foto":"../assets/psg.png"
+        },
+        {
+            "id": 5,
+            "name": "chelsea",
+            "country": "Inglaterra",
+            "foto":"../assets/chelsea.png"
+        },
+        {
+            "id": 6,
+            "name": "Bayern",
+            "country": "Alemanha",
+            "foto":"../assets/bayern.png"
+        },
+        {
+            "id": 7,
+            "name": "Juventus",
+            "country": "Itália",
+            "foto":"../assets/juventus.png"
+        },
+        {
+            "id": 8,
+            "name": "Ajax",
+            "country": "Holanda",
+            "foto":"../assets/ajax.png"
+        }
+    ]
+}
